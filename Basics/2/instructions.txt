@@ -10,8 +10,6 @@ Define the expected oven time in minutes
 Define the EXPECTED_MINUTES_IN_OVEN constant that represents how many minutes the lasagna should be in the oven. It must be exported. According to the cooking book, the expected oven time in minutes is 40.
 
 
-Stuck? Reveal Hints
-Opens in a modal
 Task 2
 Calculate the remaining oven time in minutes
 
@@ -20,8 +18,7 @@ Implement the remainingMinutesInOven function that takes the actual minutes the 
 remainingMinutesInOven(30);
 // => 10
 
-Stuck? Reveal Hints
-Opens in a modal
+
 Task 3
 Calculate the preparation time in minutes
 
@@ -30,8 +27,7 @@ Implement the preparationTimeInMinutes function that takes the number of layers 
 preparationTimeInMinutes(2);
 // => 4
 
-Stuck? Reveal Hints
-Opens in a modal
+
 Task 4
 Calculate the total working time in minutes
 
